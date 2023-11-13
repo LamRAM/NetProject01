@@ -1,11 +1,12 @@
 # Network Project 01 
 
-<!-- ### Instructions -->
 
 **Objectives**
+
 In this project we want to focus on network concepts that could be used to develop applications.
 
 **Concepts**
+
 These concepts
 | Concept   |      Resources      |
 |----------|:-------------:|
@@ -16,9 +17,11 @@ These concepts
 
 
 **Problem**
+
 Develop a method that takes a host name as an input and returnes its ip address.
 
 **Implementation**
+
 Write the implementation of the `getIpByHostName` method. After that, call it with a valid input.
 ```Java
 public static String getIpByHostName(String hostName){
